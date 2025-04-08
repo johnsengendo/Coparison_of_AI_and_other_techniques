@@ -73,9 +73,3 @@ You can customize the following parameters in the code:
 - Window size for neural network models
 - Neural network architecture (number of layers, units, etc.)
 - ARIMA and SARIMA orders
-
-## License
-MIT
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.# Coparison_of_AI_and_other_techniques
