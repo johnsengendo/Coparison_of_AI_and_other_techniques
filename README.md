@@ -27,7 +27,7 @@ This repository contains a comprehensive comparison of various time series forec
 ## Installation
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/time-series-forecasting-comparison.git
+git clone https://github.com/johnsengendo/time-series-forecasting-comparison.git
 
 # Navigate to the project directory
 cd time-series-forecasting-comparison
