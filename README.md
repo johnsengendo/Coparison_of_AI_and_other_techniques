@@ -1,0 +1,1 @@
+# Coparison_of_AI_and_other_techniques
