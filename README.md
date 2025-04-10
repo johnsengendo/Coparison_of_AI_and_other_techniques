@@ -46,7 +46,6 @@ This will:
 The repository includes visualization of:
 - Bar charts comparing MAE and MSE for all models
 - Line plots showing actual vs. predicted values for each model
-- Detailed performance metrics summary
 
 ![results](download.png)
 
