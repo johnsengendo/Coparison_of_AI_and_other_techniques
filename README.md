@@ -24,24 +24,6 @@ This repository contains a comprehensive comparison of various time series forec
 - scikit-learn
 - statsmodels
 
-## Installation
-```bash
-# Clone this repository
-git clone https://github.com/johnsengendo/time-series-forecasting-comparison.git
-
-# Navigate to the project directory
-cd time-series-forecasting-comparison
-
-# Install required packages
-pip install numpy pandas matplotlib tensorflow scikit-learn statsmodels
-```
-
-## Usage
-The main script can be run directly:
-```bash
-python time_series_comparison.py
-```
-
 This will:
 1. Generate synthetic time series data (sine wave with noise)
 2. Train all five forecasting models
@@ -66,10 +48,3 @@ The repository includes visualization of:
 - Line plots showing actual vs. predicted values for each model
 - Detailed performance metrics summary
 
-## Customization
-You can customize the following parameters in the code:
-- Time series data generation settings
-- Train/test split ratio
-- Window size for neural network models
-- Neural network architecture (number of layers, units, etc.)
-- ARIMA and SARIMA orders
