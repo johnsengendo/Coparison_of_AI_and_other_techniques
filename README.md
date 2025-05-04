@@ -44,8 +44,9 @@ This will:
 
 ## Results
 The repository includes visualization of:
-- Bar charts comparing MAE and MSE for all models
-- Line plots showing actual vs. predicted values for each model
+- Bar charts comparing MAE and MSE for all models as shown below
+- Line plots showing actual vs. predicted values for each model as shown below
 
+![results](download.png)
 ![results](download.png)
 
