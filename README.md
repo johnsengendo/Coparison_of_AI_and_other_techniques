@@ -48,5 +48,5 @@ The repository includes visualization of:
 - Line plots showing actual vs. predicted values for each model as shown below
 
 ![results](download.png)
-![results](download.png)
+![results](line.png)
 
