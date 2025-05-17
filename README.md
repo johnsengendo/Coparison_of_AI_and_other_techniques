@@ -44,6 +44,7 @@ This will:
 
 ## Results
 The repository includes visualization of:
+- The[note book](https://github.com/johnsengendo/Coparison_of_AI_and_other_techniques/blob/main/coimparison_experiment.ipynb) used for the experiment 
 - Bar charts comparing MAE and MSE for all models as shown below
 - Line plots showing actual vs. predicted values for each model as shown below
 
